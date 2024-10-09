@@ -1,0 +1,14 @@
+.slogan {
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: #007bff;
+  }
+  
+  .lead {
+    font-size: 1.25rem;
+    color: #6c757d;
+  }
+
+  .shadow {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  }
